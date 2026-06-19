@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hindu2737/autosuggestt/issues"
   },
-  "homepage": "https://github.com/Hindu2737/autosuggestt#readme"
+  "homepage": "https://github.com/Hindu2737/autosuggestt#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
