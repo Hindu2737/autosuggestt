@@ -1,8 +1,8 @@
 //alert("Hello from JS!!");
 
-//console.log("Hello from JS!!");
+console.log("Hello from JS!!");
 
-const users = [
+/*const users = [
     {
         name: "John Doe",
         gender: "Male",
@@ -11,7 +11,7 @@ const users = [
     {
         name: "Jenny Smith",
         gender: "Female",
-        image: "../images/jhon wife autosuggest.webp"
+        image: "../images/janey autosuggest.png"
     }
 ];
 
@@ -31,3 +31,5 @@ if (btn) {
         imageEl.src = users[currentUser].image;
     });
 }
+    */
+
